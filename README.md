@@ -1,4 +1,4 @@
-# data-team-jared
+# data-team-rich
 Rich Haussmann Interview
 
 # Technical Exercise
